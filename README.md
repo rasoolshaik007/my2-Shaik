@@ -41,5 +41,25 @@ https://github.com/rasoolshaik007/my2-Shaik/blob/main/MyStats.md
 
 > "I would like to tell the young men and women before me not to lose hope and courage. Success can only come to you by courageous devotion to the task lying in front of you."   - *C. V. Raman*
 
+---
+
+### Code Snippets
+
+> How do i embed a video using html5?
+
+[Question for embedding-windows-media](https://stackoverflow.com/questions/32032035/how-do-i-embed-a-video-using-html5)
+```
+<object type="video/x-ms-wmv" 
+  data="movie.wmv" 
+  width="320" height="260">
+  <param name="src" 
+    value="movie.wmv" />
+  <param name="autostart" value="true" />
+  <param name="controller" value="true" />
+</object>
+
+```
+[Quick Link for Snippet Source](https://css-tricks.com/snippets/html/embedding-windows-media/)
+
 
 
