@@ -20,3 +20,20 @@ I visited vizag with my friends, we enjoyed alot and created memories with them 
 - Chicken Biriyani
 
 https://github.com/rasoolshaik007/my2-Shaik/blob/main/MyStats.md
+
+---
+### Sports
+
+> I like playing sports because sports helps us in a different ways like exercising, fitness, getting opportunities in good universities etc.So everyone needs to play atleast one sport and it helps you to make a better person.
+
+| Name |     Reason     |  Hours spent in a week  |
+|------|----------------|-------------------------|
+|Chess |Creativity, Patience, Improves Memory |  8  |
+|Cricket |Leadership, Teamwork, Mindset |  6  |
+|Kho Kho |Fitness, Socialization, Stability |  3  |
+|Football |Work Ethic, Co-ordination, strength |  3  |
+
+
+
+
+
