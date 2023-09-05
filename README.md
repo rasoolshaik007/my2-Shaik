@@ -19,10 +19,4 @@ I visited vizag with my friends, we enjoyed alot and created memories with them 
 - Sweets
 - Chicken Biriyani
 
-
-
-
-
-
-
 https://github.com/rasoolshaik007/my2-Shaik/blob/main/MyStats.md 
