@@ -33,7 +33,13 @@ https://github.com/rasoolshaik007/my2-Shaik/blob/main/MyStats.md
 |Kho Kho |Fitness, Socialization, Stability |  3  |
 |Football |Work Ethic, Co-ordination, strength |  3  |
 
+---
 
+### Scientists Quotes
+
+> "Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work."  - *APJ Abdul Kalam*
+
+> "I would like to tell the young men and women before me not to lose hope and courage. Success can only come to you by courageous devotion to the task lying in front of you."   - *C. V. Raman*
 
 
 
